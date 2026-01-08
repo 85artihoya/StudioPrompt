@@ -1,0 +1,7 @@
+{
+  "name": "Cinematic Prompt Studio",
+  "description": "A high-end professional tool for generating structured behind-the-scenes cinematic image prompts. Features a template library, structured generation, and AI-powered image-to-prompt analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
